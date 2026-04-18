@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep -E \"^/c/Users/mauri/Documents/ProyectosAI/LibreChat/[^/]+$|^/c/Users/mauri/Documents/ProyectosAI/LibreChat/[^/]+/[^/]+$\")",
+      "WebSearch",
+      "WebFetch(domain:casadedios.pago.ai)",
+      "WebFetch(domain:www.songkick.com)",
+      "Bash(node -e \"const { PDFDocument, rgb } = require\\('pdf-lib'\\); console.log\\('pdf-lib OK'\\)\")",
+      "Bash(node -e \"console.log\\(require\\('pdfkit/package.json'\\).version\\)\")",
+      "Bash(node -e ':*)"
+    ]
+  }
+}
