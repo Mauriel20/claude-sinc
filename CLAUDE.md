@@ -63,6 +63,19 @@ Registrar y analizar automáticamente:
 ### Registro de patrones de tiempo de Serghy:
 _(El bot llena esta sección automáticamente con el tiempo)_
 
+## Servicios que ofrezco
+
+### Automatización de ventas por chatbot
+- Desarrollo e implementación de bots para WhatsApp orientados a ventas
+- Flujos automatizados para responder, calificar y convertir leads 24/7
+- Integración con contenido orgánico (reels/TikToks) como fuente de tráfico
+- Clientes objetivo: PyMEs y negocios locales en Costa Rica
+- Herramientas: ManyChat, Respond.io, Wati u otras plataformas de automatización
+
+### Creación de contenido orgánico
+- Reels y TikToks con estructura viral para crecer visibilidad y ventas
+- Estrategia basada en la Metodología Geras Media
+
 ## Clientes actuales
 
 ### Gosen Music Shop
