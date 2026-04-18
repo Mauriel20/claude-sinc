@@ -130,6 +130,90 @@ _(El bot llena esta sección automáticamente con el tiempo)_
 - Claridad de marca > volumen de visitas
 - El que prueba más ángulos de contenido rápido, gana
 
+## Metodología Caleb Ralston — "How to START a Personal Brand"
+*(Curso completo — integrar con Geras Media)*
+
+### Paso 0: ¿Deberías construir tu marca personal?
+- Antes de hacer contenido, define tu **Desired Outcome** (resultado deseado)
+- Pregúntate: ¿hacer contenido me acerca o me aleja de ese objetivo?
+- Si te acerca → adelante. Si no → no desperdicies tiempo en ello
+- Gary Vee le dijo: "podrías construir un gran negocio sin hacer contenido jamás" — la clave es tener claridad del porqué
+
+### Framework 1: Brand Journey Framework (4 preguntas)
+Reverse engineering desde el resultado deseado hasta hoy:
+1. **¿Cuál es tu desired outcome?** — ¿Qué quieres lograr?
+2. **¿Para qué necesitas ser conocido?** — ¿Qué reputación necesitas para lograr eso?
+3. **¿Qué acciones tienes que hacer?** — No basta con decirlo, hay que actuar para ser conocido por algo
+4. **¿Qué necesitas aprender?** — Para hacer esas acciones, para llegar a esa reputación, para ese outcome
+
+### Estudiante vs Experto
+- **Estudiante**: aprende en público — documenta el proceso, es el conejillo de indias de la audiencia, no pretende saber lo que no sabe
+- **Experto**: enseña en público — comparte cómo logró lo que logró, errores que cometió, cómo ir más rápido que él
+- ERROR FATAL: ser estudiante pero pretender ser experto → quema la confianza para siempre
+
+### Framework 2: Credibility Bank / Interest Bank
+- **Expertos → Credibility Bank**: lista corriente de todo lo que has logrado, construido, resuelto, probado, los errores y lecciones. De aquí sale el "por qué deberían escucharte"
+- **Estudiantes → Interest Bank**: lista de todo lo que estás estudiando, experimentando, aprendiendo — tu canal documenta ese proceso
+- Mientras más impresionante sea tu credibility bank, mejores resultados tendrás al crecer
+
+### Cómo evitar el burnout de marca
+- La mayoría quema su marca porque construyen algo que les da vergüenza
+- Señal de alarma: si no le enviarías ese video a tus amigos, estás construyendo la marca equivocada
+- **Primera pregunta no es "¿qué quiere la audiencia?"** — es "¿de qué voy a estar más orgulloso?"
+- Mezcla tu tema central con elementos humanos (hobbies, personalidad real) — no solo un tema solo
+- Construye algo que te emocione, no lo que dice el algoritmo
+
+### Framework 3: Painful Problems (Problemas Dolorosos del Cliente)
+- La gente consume contenido educativo para resolver UN problema que les duele
+- Identifica 10-15 problemas dolorosos de tu cliente ideal
+- **No optimices alrededor de tus competidores — optimiza alrededor de tus clientes**
+- Tu marca = tu expertise + quién eres como humano + los problemas que resuelves
+- Más problemas identificados = más ideas de contenido futuro
+
+### Framework 4: Contrarian Belief (La Creencia Contraria) ← El 80%
+El mayor diferenciador. Vale más que los otros 2 elementos de diferenciación combinados.
+
+**Contrarian vs Controversial:**
+- **Contrarian**: vas contra la creencia dominante porque GENUINAMENTE lo crees — no puedes no decirlo
+- **Controversial**: tomas una posición para provocar reacción — solo para generar drama
+- Las grandes marcas evitan a los controversiales como la plaga. Construye contrarian, no controversial.
+
+**Cómo encontrar tu Contrarian Belief — Two Column Approach:**
+| Columna izquierda | Columna derecha |
+|---|---|
+| Lo que la gente en tu nicho dice que NO te convence | Tu visión de eso |
+| Lo que tus competidores HACEN que no te gusta | Lo que tú harías diferente |
+
+- Una vez tengas varios contrarian takes → **pruébalos en tu contenido**
+- El que más resuena con tu audiencia → **duplícalo y triplícalo**
+
+**Señales de que tu contrarian belief está resonando:**
+- La gente cita tu creencia de vuelta en los comentarios
+- Recibes más DMs de lo normal referenciando ese contenido
+- La gente hace contenido hablando de tu take y te etiqueta
+
+**Importante: ¿A quién escuchar?**
+- Oferta masiva/low ticket → escucha los comentarios generales
+- Oferta nicho/high ticket → escucha a tus CLIENTES, no a tus seguidores
+- El grupo que optimizas = el grupo que atraes más. ¿Quieres más seguidores o más clientes?
+
+### Framework 5: Brand Statement
+- Una frase que comunica tu contrarian belief de forma clara y concisa
+- Repítela constantemente en todo tu contenido
+- El objetivo: que la audiencia haga esa asociación automáticamente contigo
+- Como Apple con "Think Different" — no describen el producto, describen la creencia
+
+---
+
+### Cómo integrar Caleb Ralston con Geras Media
+| Geras Media | Caleb Ralston |
+|---|---|
+| TCA: alejarse del micro-nicho | Contrarian Belief: diferenciarte con una creencia real |
+| Gancho en 3 segundos | Brand Statement: repetir tu creencia constantemente |
+| Embudo: Atención → Confianza → Venta | Brand Journey: Outcome → Reputación → Acciones → Aprendizaje |
+| 80% nicho / 20% marca personal | Mezcla expertise + elementos humanos + problemas del cliente |
+| El cliente ideal se filtra en historias | Optimiza alrededor de clientes, no de seguidores |
+
 ## Cómo Claude me ayuda
 - Guiones y scripts para videos
 - Hooks virales para los primeros segundos
